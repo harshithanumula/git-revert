@@ -2,5 +2,3 @@ Hi
 Hello
 how are u
 This is the feature branch
-I am using this feature branch from git branch
-
