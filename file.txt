@@ -2,5 +2,3 @@ Hi
 Hello
 how are u
 This is the feature branch
-This is the feature branch
-
